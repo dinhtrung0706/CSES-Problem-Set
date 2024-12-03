@@ -47,6 +47,6 @@ __SLH__
         ll n;
     cin >> n;
     solve(n);
-    cerr << "Time elapsed: " << TIME << " s.\n";
+    //cerr << "Time elapsed: " << TIME << " s.\n";
     return (0 ^ 0);
 }
