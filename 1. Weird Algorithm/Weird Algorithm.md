@@ -9,7 +9,8 @@ The only input line contains an integer n.
 
 **Output**
 Print a line that contains all values of n during the algorithm.
-Constraints
+
+**Constraints**
 $$ 1 \le n \le 10^6$$
 
 **Example**
